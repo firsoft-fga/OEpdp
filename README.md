@@ -7,4 +7,7 @@ Easy build own system with any memory slot value with any fields in this slot
 ( as attempt to imitate  multithreding  in OE )  
     
 P.S. For linux exist shared library which now used in SEB bank in all 3 Baltic countries   
-If you are interested , please contact me directly 
+If you are interested , please contact me directly    
+Gennadi Firsov ( location Tallinn,Estonia)    
+        e-mail: <firsoffg@gmail.com>   
+phone/whatsapp: <a href="https://wa.me/3725136153">+3725136153</a>   
